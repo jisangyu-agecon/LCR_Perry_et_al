@@ -22,6 +22,6 @@ Table A1: Run do files 1 - 4. 4_Warming_impacts_table1_A1.do produces the values
 
 Tables A2 - 5: Run do files in 7_Appendix_robustness_do.
 
-Data
+# Data
 
 Raw data are publicly available (see the manuscript for the sources). Cleaned dta files are available upon request or in here: https://www.dropbox.com/sh/z6igxiqy6v079fy/AACeKjQdCCMRREI1b1zgfVwca?dl=0 
